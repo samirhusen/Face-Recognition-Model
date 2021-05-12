@@ -4,7 +4,7 @@ It is a machine learning model which is able to detect student/human faces and m
 
 Kindly add more images inside the "Attendance" directory before using this model.
 
-Install these libraries:
+Install these libraries before running
   - OpenCv
   - face_recognition
   - NumPy
